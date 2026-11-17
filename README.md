@@ -1,4 +1,4 @@
-### Hi, I'm Riya.
+### Hi, I'm Riya!
 
 I studied Economics at the University of Toronto, where a talk by Geoffrey Hinton got me curious about AI. I've been teaching myself to code and building things since, mostly AI tools for finance and markets.
 
