@@ -1,30 +1,34 @@
 ### Hi, I'm Riya.
 
-I build applied AI tools for finance and markets. I trained as an economist and taught myself to code, so most of my work turns a question from finance into a product that people can use.
-
-Currently: **MSBA, Applied AI & Analytics** at Georgetown McDonough (2027) · Tech Sector Analyst, Georgetown Graduate Investment Fund · B.A. Economics, Public Policy & Environmental Science, University of Toronto
+I studied economics at the University of Toronto, where a talk by Geoffrey Hinton got me curious about AI. I've been teaching myself to code and building things since, mostly AI tools for finance and markets.
 
 ---
 
-#### What I've built
+#### What I'm building
 
-**[MergerIQ](https://mergeriq.launchdream.com/)**: M&A deal screening
-A random-forest classifier trained on ~98 hand-curated deals (2012–2024, 11 sectors), reaching a **0.82 held-out AUC**, with an LLM layer built on the Claude API for deal analysis. It uses Supabase for storage.
-*Next:* turning it into an analyst copilot that pulls structured deal terms from SEC EDGAR filings, benchmarked against the MAUD dataset.
+**[MergerIQ](https://mergeriq-v2.vercel.app)**: M&A deal screening
+Estimates how likely a deal is to close from early signals. It runs a random forest trained on ~98 hand-picked deals (2012–2024, 11 sectors) with a 0.82 held-out AUC, and uses the Claude API for the analysis layer.
+Next, I'm turning it into a copilot that pulls deal terms straight out of SEC filings.
 
 **[AlphaKnaut](https://alphaknaut.vercel.app)**: AI portfolio optimization
-A full-stack platform for the Magnificent Seven stocks. It combines data from four financial APIs and uses Claude as the reasoning layer. It was my first build, shipped in about six weeks while I was learning to code.
+My first build. I made it in about six weeks while learning to code. It covers the Magnificent Seven, pulls from four financial data APIs, and uses Claude to reason over them.
 
 ---
 
-#### Toolkit
+#### Education
 
-`Python` · `R` · `SQL (SQLite, Supabase)` · `JavaScript / React` · `Claude API` · `Vercel`
+**Georgetown University, McDonough School of Business**: Applied AI & Analytics, 2027
+Tech Sector Analyst, Graduate Investment Fund · AI Policy Fellow, Georgetown AI Association · Entrepreneurship & VC Club
 
-#### Interested in
-
-Forward-deployed and applied AI · AI for finance · venture and early-stage startups · macro
+**University of Toronto**: B.A., Economics, Public Policy & Environmental Science, 2026
+University of Toronto Sales & Trading · University of Toronto Anthropic
 
 ---
 
-[riyapradhan.us](https://riyapradhan.us) · [LinkedIn](https://www.linkedin.com/in/riya-pradhan/) · [email](mailto:riya.pradhan.us@gmail.com)
+#### Tools
+
+`Python` · `R` · `SQL` · `React` · `Claude API` · `Supabase` · `Vercel`
+
+---
+
+[riyapradhan.us](https://riyapradhan.us) · [LinkedIn](https://www.linkedin.com/in/riya-pradhan) · [Riya.Pradhan.US@gmail.com](mailto:Riya.Pradhan.US@gmail.com)
