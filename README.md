@@ -6,7 +6,7 @@ I studied economics at the University of Toronto, where a talk by Geoffrey Hinto
 
 #### What I'm building
 
-**[MergerIQ](https://mergeriq-v2.vercel.app)**: M&A deal screening
+**[MergerIQ](https://mergeriq.launchdream.com/)**: M&A deal screening
 Estimates how likely a deal is to close from early signals. It runs a random forest trained on ~98 hand-picked deals (2012–2024, 11 sectors) with a 0.82 held-out AUC, and uses the Claude API for the analysis layer.
 Next, I'm turning it into a copilot that pulls deal terms straight out of SEC filings.
 
